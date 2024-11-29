@@ -22,7 +22,7 @@ class UniFiClientTest extends TestCase
     /**
      * update this value when the version of the UniFi API client changes
      */
-    const VERSION = '1.0.1';
+    const VERSION = '1.0.5';
 
     /**
      * constants for the API key and URI
